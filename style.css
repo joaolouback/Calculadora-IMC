@@ -12,6 +12,11 @@ h1, h2 {
 
 h1{
     margin: 0em;
+    font-size: 50px;
+}
+
+h2{
+    font-size: 31px;
 }
 
 .bloco1{
@@ -19,10 +24,11 @@ h1{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 17px;
 }
 
 input{
-    height: 1.5em;
+    height: 1.8em;
 
 }
 
@@ -33,18 +39,20 @@ input{
     border-radius: 20px;
     flex-direction: column;
     align-items: center;
-    width: 22.5em;
+    width: 30.5em;
+    height: 44vh;
     
 }
 
 button{
-    height: 3em;
+    height: 4em;
     width: 100%;
     background-color: #2b9c47;
     border: none;
     color: white;
     border-radius: 10px;
     font-size: 14px;
+    margin-top: 20px;
 }
 
 button:hover{
