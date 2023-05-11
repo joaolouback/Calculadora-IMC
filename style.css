@@ -16,7 +16,7 @@ h1{
 }
 
 h2{
-    font-size: 31px;
+    font-size: 35px;
 }
 
 .bloco1{
@@ -24,11 +24,11 @@ h2{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 17px;
+    padding: 10px;
 }
 
 input{
-    height: 1.8em;
+    height: 2.2em;
 
 }
 
@@ -62,7 +62,7 @@ button:hover{
 .area{
     height: 100vh;
     display: flex;
-   justify-content: center;
-   align-items: center;
+    justify-content: center;
+    align-items: center;
     
 }
